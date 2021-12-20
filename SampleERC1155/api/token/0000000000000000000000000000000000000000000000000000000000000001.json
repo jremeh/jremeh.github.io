@@ -4,5 +4,20 @@
   "image": "https://openmoji.org/data/black/svg/1FA99.svg",
   "name": "Power Up Earth",
   "seller_fee_basis_points": 500,
-  "fee_recipient": "0x13206beF17F1868240A3740450348429537cd19A"
+  "fee_recipient": "0x13206beF17F1868240A3740450348429537cd19A",
+  "attributes": [
+    { 
+      "trait_type": "Rarity", 
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Multiplier", 
+      "value": 2
+    },
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Multiplier", 
+      "value": 100
+    }
+  ]
 }
