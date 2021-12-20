@@ -2,5 +2,20 @@
   "description": "PowerUpItems - 1.5x",
   "external_url": "https://forum.openzeppelin.com",
   "image": "https://openmoji.org/data/color/svg/1FA99.svg",
-  "name": "1.5x Power Up"
+  "name": "1.5x Power Up",
+  "attributes": [
+    { 
+      "trait_type": "Rarity", 
+      "value": "Common"
+    },
+    {
+      "trait_type": "Multiplier", 
+      "value": 1.5
+    },
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Multiplier", 
+      "value": 50
+    }
+  ]
 }
