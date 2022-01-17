@@ -15,6 +15,10 @@
       "value": 2
     },
     {
+      "trait_type": "Post Mint Multiplier",
+      "value": 10
+    },
+    {
       "display_type": "boost_percentage", 
       "trait_type": "Multiplier", 
       "value": 100
